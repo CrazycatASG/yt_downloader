@@ -1,3 +1,7 @@
+"""
+this code is hereby released into the public domain, or under CC0, at your option.
+"""
+
 import os
 import tkinter as tk
 import tkinter.ttk as ttk
